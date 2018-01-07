@@ -1,0 +1,7 @@
+---
+applications:
+- name: spring-rest-micro
+  path: target/restfulMicroservice-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  memory: 1024M
+  instance: 1
